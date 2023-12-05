@@ -34,8 +34,10 @@ python predict.py
 ChemSAM was be used in PROTACT database project [Linker](https://wxfsd.github.io/index.html)
 
 ### Example
+```
 Input: ./testpdf/acs.jmedchem.0c00456.pdf
 Output: ./splitresult/*.png
+```
 
 ### Cite
 If you use ChemSAM in your research, please cite our [paper]().
