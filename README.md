@@ -23,8 +23,8 @@ wget -P .logs/chemseg_pix_sdg_2023_09_08_19_02_14/ https://drive.google.com/file
 unzip ChemSAM_Model.zip
 ```
 
-### Training Data
-Please download from [Goole Drive](https://drive.google.com/file/d/1RZBpDk4EkM7UI9QDV5gdP2x2iVmqtlR5/view?usp=sharing) 
+### Pre-Training Data
+In detail, we created a total of 10,774 samples and masks for model to pre-training. The pre-training data download link is [Goole Drive](https://drive.google.com/file/d/1RZBpDk4EkM7UI9QDV5gdP2x2iVmqtlR5/view?usp=sharing) 
 
 ### Prediction
 ```
