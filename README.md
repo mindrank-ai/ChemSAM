@@ -15,7 +15,7 @@ Chemical structure segmentation constitutes a pivotal task in cheminformatics, i
 
 # User Notification
 The model is used in the company's [Protac database project](https://molblock.cn/index.html#/target) and is currently being integrated into the company's internal software. 
-If necessary, please contact:
+If need cooperation, please contact:
 bowen@mr.ai
 xiaofeng@mr.ai
 zhangming@mr.ai
