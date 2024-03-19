@@ -21,8 +21,9 @@ xiaofeng@mr.ai
 zhangming@mr.ai
 
 
-
-# Cite
+# Citation
+Please cite our paper if you use this code in your own work:
+```
 @article{tang2024automated,
   title={Automated molecular structure segmentation from documents using ChemSAM},
   author={Tang, Bowen and Niu, Zhangming and Wang, Xiaofeng and Huang, Junjie and Ma, Chao and Peng, Jing and Jiang, Yinghui and Ge, Ruiquan and Hu, Hongyu and Lin, Luhao and others},
@@ -33,3 +34,6 @@ zhangming@mr.ai
   year={2024},
   publisher={BioMed Central}
 }
+```
+
+
